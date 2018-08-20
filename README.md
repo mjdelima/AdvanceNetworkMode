@@ -1,30 +1,20 @@
-# Magisk Module Template
+# Advance Network Mode For Redmi Note 5 (Whyred) 
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+   by:
+      Mjdelima (CardinalX / DrPglixq)
 
-**Please update `README.md` if you want to submit your module to the online repo!**
 
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
-
----
-# **Module Name**
 ## Description
-Description here
-## Changelog
-Changelog here
-## Requirements
-- Requirement 1
-- Requirement *
-- Requirement n
-## Instructions
-Instructions here
-- Or other instructions here
-- Followed by more instructions
-1. Or a list of instructions
-2. With more instructions
-## Links
-[Module XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/module-url-here "Module official XDA thread")
+This is just a simple mod to provide more network
+mode selection under settings for Redmi Note 5 (whyred)
 
-[Latest stable Magisk](http://www.tiny.cc/latestmagisk)
+
+## Changelog
+-Initial Release
+- Tested on Miui 9.5.19
+
+## Requirements
+- Only for Redmi Note 5! (whyred)
+
+## Instructions
+Just flash it.
