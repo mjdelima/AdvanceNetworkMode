@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=AdvanceNetworkWhyred
+name=Advance Network Redmi Note 5 AI
 version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+versionCode=1.0
+author=mjdelima
+description=Just a simple mod to show advance network mode for Redmi Note 5 (Whyred)
 minMagisk=1500

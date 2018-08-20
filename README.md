@@ -18,3 +18,4 @@ mode selection under settings for Redmi Note 5 (whyred)
 
 ## Instructions
 Just flash it.
+
